@@ -1,0 +1,16 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#777;
+    text-align: center;
+    background-color: #777;
+    width: 960px;
+    font-size:18px;
+    position: relative;
+}
+
+.header{
+    background-color: #ebebeb;
+    height: 100px;
+    width: 75%;
+
+}
